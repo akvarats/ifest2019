@@ -1,0 +1,6 @@
+wheel
+numpy
+gensim
+pyemd
+rnnmorph
+jupyterlab
